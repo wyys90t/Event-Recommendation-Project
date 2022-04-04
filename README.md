@@ -1,5 +1,5 @@
 # Notes:
-*Servlets (let the host have means to request response)
+Markup : *Servlets (let the host have means to request response)
 I used java to build a few servlets in my project, the first one named as SearchItem api that provides the functionality to search around and the second one named as post servlet that allows a user to set or unset their favorite records. The last one is a GET servlet that recommends similar items to the user.
 
 *Restful API : using HTTP methods to indicate what kind of operation a client wants to take. Using HTTP url to indicate which service and data a client wants to use and what kind of data they take.
