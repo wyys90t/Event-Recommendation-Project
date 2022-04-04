@@ -1,1 +1,1 @@
-# EventRecommendation-Project
+# Events-Recommendation-Project
